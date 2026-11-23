@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Salut%20!%20Moi%20c'est%20TON%20NOM&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=D%C3%A9veloppeur%20passionn%C3%A9%20%7C%20Cr%C3%A9ateur%20%7C%20Toujours%20en%20train%20d'apprendre&descAlignY=58&descSize=18" width="100%" alt="banniere"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Lucas%20Dufief&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Designer%20graphique%20%7C%20Cr%C3%A9atif%20%7C%20Touche-%C3%A0-tout%20du%20code&descAlignY=58&descSize=18" width="100%" alt="banniere"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+%F0%9F%91%8B;D%C3%A9veloppeur+Full+Stack+%F0%9F%92%BB;Passionn%C3%A9+par+le+code+propre+%E2%9C%A8;Open+source+%26+curiosit%C3%A9+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Bienvenue+sur+mon+profil+%F0%9F%91%8B;Designer+graphique+%F0%9F%8E%A8;Je+donne+vie+%C3%A0+vos+id%C3%A9es+%E2%9C%A8;Un+peu+de+Python+%26+JavaScript+aussi+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,26 +12,26 @@
 
 <br/><br/>
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasdufief5-rgb)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/TON-PROFIL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON-PROFIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ton-site.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@exemple.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TON-ID)
 
 </div>
 
 <br/>
 
-## 👨‍💻 À propos de moi
+## 👨‍🎨 À propos de moi
 
 <table>
 <tr>
 <td width="60%">
 
-- 🔭 Je travaille actuellement sur **Nom de ton projet**
-- 🌱 J'apprends **TypeScript**, **Rust** et le **Cloud**
-- 👯 Je cherche des collaborateurs sur des projets **open source**
-- 💬 Demande-moi n'importe quoi sur **le web, Python, l'IA…**
-- ⚡ Anecdote : *je transforme le café en code* ☕
+- 🎨 Je suis **Lucas Dufief**, un profil orienté **design**
+- 🖌️ J'aime créer des **identités visuelles**, des **mises en page** et des **illustrations**
+- 💻 Je code en **Python** et **JavaScript** pour donner vie à mes idées
+- 🌱 Je continue d'apprendre pour relier **design** et **développement**
+- 🤝 Ouvert aux collaborations et aux projets créatifs
 - 📍 Basé en **France** 🇫🇷
 
 </td>
@@ -45,23 +45,27 @@
 
 <br/>
 
-## 🛠️ Mes technologies
+## 🛠️ Mes compétences
 
 <div align="center">
 
-**Langages**
+**🎨 Design**
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,html,css,php&theme=dark" alt="langages"/>
+<img src="https://skillicons.dev/icons?i=ps,ai,id&theme=dark" alt="design"/>
 
-**Frameworks & Outils**
+**💻 Code & Outils**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,tailwind,vite,git&theme=dark" alt="frameworks"/>
-
-**Bases de données & DevOps**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,linux,aws,github&theme=dark" alt="devops"/>
+<img src="https://skillicons.dev/icons?i=py,js,git,github&theme=dark" alt="code"/>
 
 </div>
+
+<br/>
+
+| 🎨 Design | 💻 Développement |
+|-----------|------------------|
+| ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 <br/>
 
@@ -94,13 +98,6 @@
 </a>
 <a href="https://github.com/lucasdufief5-rgb/projet-2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdufief5-rgb&repo=projet-2&theme=github_dark&hide_border=true" alt="Projet 2"/>
-</a>
-
-<a href="https://github.com/lucasdufief5-rgb/projet-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdufief5-rgb&repo=projet-3&theme=github_dark&hide_border=true" alt="Projet 3"/>
-</a>
-<a href="https://github.com/lucasdufief5-rgb/projet-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasdufief5-rgb&repo=projet-4&theme=github_dark&hide_border=true" alt="Projet 4"/>
 </a>
 
 </div>
