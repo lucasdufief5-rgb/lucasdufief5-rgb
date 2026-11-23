@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Lucas%20Dufief&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Designer%20graphique%20%7C%20Cr%C3%A9atif%20%7C%20Touche-%C3%A0-tout%20du%20code&descAlignY=58&descSize=18" width="100%" alt="banniere"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Bienvenue+sur+mon+profil+%F0%9F%91%8B;Designer+graphique+%F0%9F%8E%A8;Je+donne+vie+%C3%A0+vos+id%C3%A9es+%E2%9C%A8;Un+peu+de+Python+%26+JavaScript+aussi+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=650&lines=Bienvenue+sur+mon+profil+%F0%9F%91%8B;Designer+graphique+%F0%9F%8E%A8;Je+donne+vie+%C3%A0+vos+id%C3%A9es+%E2%9C%A8;Je+code+en+HTML%2FCSS%2C+Python+%26+JS+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@
 
 - 🎨 Je suis **Lucas Dufief**, un profil orienté **design**
 - 🖌️ J'aime créer des **identités visuelles**, des **mises en page** et des **illustrations**
-- 💻 Je code en **Python** et **JavaScript** pour donner vie à mes idées
+- 💻 Je code en **HTML/CSS**, **Python** et **JavaScript** sur **VS Code** pour donner vie à mes idées
 - 🌱 Je continue d'apprendre pour relier **design** et **développement**
 - 🤝 Ouvert aux collaborations et aux projets créatifs
 - 📍 Basé en **France** 🇫🇷
@@ -55,7 +55,7 @@
 
 **💻 Code & Outils**
 
-<img src="https://skillicons.dev/icons?i=py,js,git,github&theme=dark" alt="code"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode&theme=dark" alt="code"/>
 
 </div>
 
@@ -63,9 +63,12 @@
 
 | 🎨 Design | 💻 Développement |
 |-----------|------------------|
-| ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 <br/>
 
